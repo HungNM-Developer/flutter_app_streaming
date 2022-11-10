@@ -1,0 +1,1 @@
+class SearchResultsUsers1Model { }

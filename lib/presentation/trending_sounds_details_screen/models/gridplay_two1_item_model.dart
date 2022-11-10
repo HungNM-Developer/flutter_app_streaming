@@ -1,0 +1,1 @@
+class GridplayTwo1ItemModel { }
